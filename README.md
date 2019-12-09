@@ -102,7 +102,7 @@
 #### 2. Generative Adversarial Networks
 ##### 1) Vanilla Generative Adversarial Network (GAN)
 ##### 2) Least Squares GAN (LSGAN)
-##### 3) Deep Convolutional GAN DCGAN)
+##### 3) Deep Convolutional GAN (DCGAN)
 ##### 4) CycleGAN
 
 
